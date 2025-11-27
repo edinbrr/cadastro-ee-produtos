@@ -1,0 +1,15 @@
+# Pastas de build do NetBeans
+*/build/
+*/dist/
+
+# Arquivos gerados
+nbproject/private/
+**/*.class
+*.log
+
+# Config local
+/.DS_Store
+Thumbs.db
+
+# Config do GlassFish (não versionar coisas de domínio local)
+glassfish*/ 
